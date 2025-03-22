@@ -1,0 +1,12 @@
+.idea/
+.vscode/
+
+cmake-build-debug/
+cmake-build-release/
+cmake-build-relwithdebinfo/
+build/
+.vs/
+
+
+.DS_Store
+Thumbs.db
