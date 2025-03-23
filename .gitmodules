@@ -1,3 +1,6 @@
 [submodule "Thirdparty/Fmt"]
 	path = Thirdparty/Fmt
 	url = https://github.com/fmtlib/fmt.git
+[submodule "Thirdparty/libzip"]
+	path = Thirdparty/libzip
+	url = https://github.com/nih-at/libzip.git
